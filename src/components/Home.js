@@ -2,7 +2,9 @@ import React from "react";
 import { name, city } from "../data/data.js";
 
 function Home() {
-  // update the JSX being returned!
+  <home>
+    <div id="home">Home</div>
+  </home>
   return <div>Home</div>;
 }
 
